@@ -30,7 +30,7 @@
 
 ### About Me
 
-I am **Rashid Hridoy**, a Computer Science and Engineering graduate focused on building reliable, elegant, and scalable software systems.
+I am **Md Mamun Ur Rashid Hridoy**, a Computer Science and Engineering graduate focused on building reliable, elegant, and scalable software systems.
 
 My foundation is strongest in **Python**, **Data Structures**, and **Algorithms**, with hands-on experience in **Machine Learning**, **Deep Learning**, **PHP**, and **Laravel**.
 
@@ -111,16 +111,16 @@ Designing systems that are efficient, maintainable, and future-ready.
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rashidhridoy93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=8B5CF6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdmamunurrashidhridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=8B5CF6"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=rashidhridoy93&theme=tokyonight&hide_border=true&background=020617&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9"/>
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidhridoy93&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmamunurrashidhridoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rashidhridoy93&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmamunurrashidhridoy&theme=tokyonight"/>
 
 </div>
 
@@ -130,7 +130,7 @@ Designing systems that are efficient, maintainable, and future-ready.
 
 ## ACTIVITY GRID
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashidhridoy93&bg_color=020617&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmamunurrashidhridoy&bg_color=020617&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -142,10 +142,10 @@ Designing systems that are efficient, maintainable, and future-ready.
 
 <br/>
 
-<a href="mailto:rashidhridoy93@gmail.com">
+<a href="mailto:mdmamunurrashidhridoy@gmail.com">
   <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=67E8F9"/>
 </a>
-<a href="https://github.com/rashidhridoy93">
+<a href="https://github.com/mdmamunurrashidhridoy">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
 
