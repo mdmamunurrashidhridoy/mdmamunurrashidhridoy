@@ -112,7 +112,7 @@ Designing systems that are efficient, maintainable, and future-ready.
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdmamunurrashidhridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=8B5CF6"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=rashidhridoy93&theme=tokyonight&hide_border=true&background=020617&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=mdmamunurrashidhridoy&theme=tokyonight&hide_border=true&background=020617&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9"/>
 
 <br/><br/>
 
