@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0f172a,70:312e81,100:06b6d4&height=260&section=header&text=Rashid%20Hridoy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Scalable%20Systems%20Builder&descSize=16&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0f172a,70:312e81,100:06b6d4&height=260&section=header&text=MD%20Mamun%20Ur%20Rashid%20Hridoy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Scalable%20Systems%20Builder&descSize=16&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=67E8F9&center=true&vCenter=true&width=780&lines=Computer+Science+%26+Engineering+Graduate;Strong+in+Python+%26+Data+Structures+Algorithms;Experienced+in+Machine+Learning+%7C+Deep+Learning+%7C+Laravel;Currently+Learning+Django+%26+JavaScript;Building+clean%2C+intelligent%2C+scalable+backend+systems"/>
 
