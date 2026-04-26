@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="240" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpxaHUxN3FhZGVpYnJ0Z2RnbzZ6MHc4d2VlNDdndnNlNjB2YmR1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif"/>
+<img align="right" alt="Coding" width="238" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3g1Ymo0MWpndW96NXl5cmNsc3RhYTY0anJkMGVpY3JlcG90YTJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"/>
 
 ```python
 class Hridoy:
