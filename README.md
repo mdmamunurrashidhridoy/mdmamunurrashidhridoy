@@ -1,176 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:312e81,50:7c3aed,75:06b6d4,100:0f172a&height=240&section=header&text=Md%20Mamun%20Ur%20Rashid%20Hridoy&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Scalable%20Architecture&descSize=17&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Production-Grade+Backend+Systems;Designing+AI-Powered+Software+Solutions;Clean+Code+%E2%80%A2+Scalable+Architecture+%E2%80%A2+Real+Impact"/>
-
-</div>
-
----
-
-<div align="center">
-
-<a href="mailto:mdmamunurrashidhridoy@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ef4444"/>
-</a>
-<a href="https://github.com/mdmamunurrashidhridoy">
-  <img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=mdmamunurrashidhridoy&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
-
-</div>
+<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Hridoy+%F0%9F%91%8B;Builder+%7C+Learner+%7C+Explorer;Turning+curiosity+into+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-83e6b6db-5a56-4af2-bc07-3d8c0f5e3b3e.gif" width="900"/>
-
-</div>
-
----
-
-## ⚡ Developer Identity
-
-```yaml
-name: Md Mamun Ur Rashid Hridoy
-role: Backend Developer & AI Enthusiast
-foundation: Python, DSA, Algorithms
-current_focus: Django, JavaScript, System Design
-experience: Machine Learning, Deep Learning, Laravel, PHP
-mission: Build intelligent, scalable, production-grade software
-```
-
----
-
-## 🧠 About Me
-
-I’m a **Computer Science and Engineering graduate** passionate about building software that is clean, scalable, and useful in the real world.
-
-My work sits at the intersection of:
-
-* ⚙️ Backend Engineering
-* 🤖 Artificial Intelligence
-* 🧩 System Architecture
-* 🚀 Production-Ready Software
-
-> I don’t just write code — I design systems that are built to last.
-
----
-
-## 🛠️ Premium Tech Arsenal
-
-<div align="center">
-
-### Core Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,php,js&theme=dark"/>
-
-<br/><br/>
-
-### Frameworks, Tools & AI
-
-<img src="https://skillicons.dev/icons?i=django,laravel,tensorflow,pytorch,mysql,git,github,vscode&theme=dark"/>
-
-</div>
-
----
-
-## 🔥 Specializations
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-06b6d4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-ec4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-f97316?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🚀 Currently Learning
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧩 Django Backends
-
-Production-ready APIs with clean architecture and maintainable service layers.
-
-</td>
-
-<td width="33%" valign="top">
-
-### ⚡ JavaScript Mastery
-
-Deep focus on async behavior, fundamentals, and full-stack capability.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🏗️ System Architecture
-
-Distributed systems, API design, and scalability engineering.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Intelligence
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mdmamunurrashidhridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=a78bfa&text_color=e5e7eb&rank_icon=github"/>
-
-<img height="175" src="https://streak-stats.demolab.com?user=mdmamunurrashidhridoy&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=EC4899&currStreakLabel=A78BFA"/>
-
-<br/><br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmamunurrashidhridoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e5e7eb"/>
-
-</div>
-
----
-
-## 📈 Contribution Timeline
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmamunurrashidhridoy&bg_color=0f172a&color=e5e7eb&line=22d3ee&point=ec4899&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity%20Graph"/>
-
-</div>
-
----
-
-## 🧬 Engineering Philosophy
-
-```txt
-Clean code is not decoration.
-Architecture is not theory.
-Scalability is not optional.
-
-Build clearly.
-Think deeply.
-Ship reliably.
-```
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Clean+Code.+Intelligent+Systems.+Scalable+Architecture.;Backend+Engineering+with+AI-Driven+Thinking.;Always+Learning.+Always+Building.+Always+Improving."/>
-
-</div>
+<!-- Social Badges -->
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmamunurrashidhridoy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmamunurrashidhridoy/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rashid__Hridoy)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmamunurrashidhridoy@gmail.com)
 
 <br/>
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdmamunurrashidhridoy&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
+</p>
+
+</div>
+
+---
+ 
+
+
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="268" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTAyNzkzaTVscWZoc2lxZjdqbGwzb3dkZDhiNDFmYTFuZ293bjU1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
+
+```python
+class Hridoy:
+    name        = "Md Mamun Ur Rashid Hridoy"
+    passion     = ["Building", "Learning", "Exploring"]
+    mindset     = "Curious · Growth-oriented · Always experimenting"
+    motto       = "Every line of code is a step toward something greater."
+
+    languages   = ["Python", "PHP", "C"]
+    frameworks  = ["Laravel"]
+    concepts    = ["Machine Learning", "Deep Learning"]
+
+    def current_focus(self):
+        return ["JavaScript", "Django", "AI Engineering"]
+```
+ 
+<br clear="right"/>
+---
+
+
+## 🛠️ Skills & Technologies
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=140&section=footer"/>
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🤖 AI / ML
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🗄️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-00D9FF?style=for-the-badge&logo=openai&logoColor=white)
+
+> *"The expert in anything was once a beginner."*
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdmamunurrashidhridoy&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+
+<br/>
+
+<!-- GitHub Stats -->
+![Hridoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmamunurrashidhridoy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF)
+
+<br/>
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmamunurrashidhridoy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
+
+</div>
+
+---
+
+## 💡 A Bit More About Me
+
+<div align="center">
+
+| 🔭 Currently working on | Building ML & web projects |
+|:---|:---|
+| 🌱 Currently learning | JavaScript · Django · AI Engineering |
+| 💬 Ask me about | Python · Laravel · Machine Learning |
+| ⚡ Fun fact | I debug with coffee and curiosity |
+| 🎯 2025 Goal | Ship meaningful open-source projects |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations, collaborations, or just a friendly hello!
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdmamunurrashidhridoy)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmamunurrashidhridoy/)
+[![X](https://img.shields.io/badge/Follow%20on%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rashid__Hridoy)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmamunurrashidhridoy@gmail.com)
+
+<br/>
+
+---
+
+<sub>✨ Built with passion by <a href="https://github.com/mdmamunurrashidhridoy">MD Mamun Ur Rashid Hridoy</a> · Powered by curiosity & caffeine ☕</sub>
 
 </div>
